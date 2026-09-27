@@ -1,0 +1,14 @@
+{
+  "name": "mercadopro-pdv",
+  "version": "1.1.0",
+  "description": "Sistema de Ponto de Venda e Controle de Estoque - MercadoPro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "sql.js": "^1.13.0"
+  }
+}
